@@ -1,6 +1,6 @@
 # 沈师课程成绩查询助手
 
-实验室开发的微信小程序后端，通过和内网的爬虫服务交互来展示成绩课程等等数据，爬虫服务参照[我的另一个项目](https://github.com/czarhao/sync_crawler)，整体基于golang，使用gin框架，返回json格式的数据与小程序端交互。
+实验室开发的微信小程序后端，通过和内网的爬虫服务交互来展示成绩课程等等数据，爬虫服务参照[我的另一个项目](https://github.com/seasonwalk/sync_crawler)，整体基于golang，使用gin框架，返回json格式的数据与小程序端交互。
 
 可以通过docker部署，前后端使用json交互，部署服务直接：
 
